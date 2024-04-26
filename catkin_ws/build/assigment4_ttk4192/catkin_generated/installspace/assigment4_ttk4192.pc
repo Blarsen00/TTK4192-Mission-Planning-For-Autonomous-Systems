@@ -1,0 +1,8 @@
+prefix=/home/ntnu-itk/catkin_ws/install
+
+Name: assigment4_ttk4192
+Description: Description of assigment4_ttk4192
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
